@@ -1,4 +1,4 @@
-#$$$# Retirement Planning Tool#$$$#
+#$$$# Financial Planning Tool#$$$#
 ###################################
 
 ## Planning Starts As Of Today ##
